@@ -1,7 +1,3 @@
-<h1 align="center">
-  Move.it
-</h1>
-
 <div align="center">
   <img src="https://github.com/Rafafaaa/moveit-next-nlw4/blob/master/.github/images/logo.svg" alt="logo-letmeask" target="_blank" />
 </div>
