@@ -6,6 +6,7 @@
   <a href="#page_facing_up-Descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#hammer_and_wrench-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#framed_picture-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-Como utilizar">Como utilizar</a>
 </p>
 <hr/>
 
@@ -26,3 +27,23 @@ Acesse o layout utilizado feito no <a href="https://www.figma.com" target="_blan
 Há também um <a href="https://www.figma.com/file/6bCYIXDFoVnD2Z5l2moOYi/Move.it-2.0?node-id=160%3A2761" target="_blank">layout 2.0</a> para possíveis atualizações futuras.
 
 ***Será necessário ter uma conta no site para acessá-los.***
+
+## :rocket: Como utilizar
+* Tenha instalado as ferramenta: <a href="https://git-scm.com" target="_blank">Git</a>, <a href="https://nodejs.org/en/" target="_blank">Node.js</a>, <a href="https://yarnpkg.com" target="_blank">Yarn</a> (ou <a href="https://www.npmjs.com" target="_blank">npm</a>).
+* Clone o repositório e entre na pasta
+```bash
+$ git clone https://github.com/Rafafaaa/moveit-next-nlw4.git
+$ cd moveit-next-nlw4
+```
+* Instale as dependências e execute a aplicação
+```bash
+# Caso utilize o Yarn
+$ yarn
+$ yarn dev
+```
+```bash
+# Caso utilize o npm
+$ npm install
+$ npm run dev
+```
+* O acesso do app estará disponível no seu navegador em <a href="http://localhost:3000" target="_blank">http://localhost:3000</a>
