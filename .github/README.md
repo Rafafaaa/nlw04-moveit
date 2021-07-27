@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Rafafaaa/moveit-next-nlw4/blob/master/.github/images/logo.svg" alt="logo-letmeask" target="_blank" />
+  <img src="https://github.com/Rafafaaa/moveit-next-nlw4/blob/master/.github/images/logo.svg" alt="logo-moveit" target="_blank" />
 </div>
 <hr/>
 <p align="center">
