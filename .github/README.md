@@ -66,7 +66,10 @@ Veja uma prévia clicando [aqui](https://rafafaaa-moveit-next-nlw4.vercel.app).
 ## :page_facing_up: Licença
 Este projeto está sob a [licença MIT](/.github/LICENSE.md).
 
-<hr/>
+<div align="center">
+  <h1>Português</h1>
+</div>
+
 <p align="center">
   <a href="#pushpin-Description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#hammer_and_wrench-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
