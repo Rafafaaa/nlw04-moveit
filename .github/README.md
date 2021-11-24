@@ -67,7 +67,7 @@ Veja uma prévia clicando [aqui](https://rafafaaa-moveit-next-nlw4.vercel.app).
 Este projeto está sob a [licença MIT](/.github/LICENSE.md).
 
 <div align="center">
-  <h1>Português</h1>
+  <h1>English</h1>
 </div>
 
 <p align="center">
