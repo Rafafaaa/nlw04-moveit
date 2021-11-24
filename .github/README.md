@@ -31,7 +31,7 @@ Há também um [layout 2.0](https://www.figma.com/file/6bCYIXDFoVnD2Z5l2moOYi/Mo
 ***Será necessário ter uma conta no site para acessá-los.***
 
 ## :rocket: Como utilizar
-* Tenha instalado as ferramenta: [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Yarn](https://yarnpkg.com) (ou [npm](https://www.npmjs.com)).
+* Tenha instalado as ferramentas: [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Yarn](https://yarnpkg.com) (ou [npm](https://www.npmjs.com)).
 * Clone o repositório e entre na pasta
 ```bash
 $ git clone https://github.com/Rafafaaa/moveit-next-nlw4.git
