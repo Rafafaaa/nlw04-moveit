@@ -101,7 +101,7 @@ There is also a [2.0 layout](https://www.figma.com/file/6bCYIXDFoVnD2Z5l2moOYi/M
 ***It will be necessary have an account on website to access them.***
 
 ## :rocket: How to use
-* Have installed the tools: [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Yarn](https://yarnpkg.com) (ou [npm](https://www.npmjs.com)).
+* Have installed the tools: [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Yarn](https://yarnpkg.com) (or [npm](https://www.npmjs.com)).
 * Clone the repository and open the folder.
 ```bash
 $ git clone https://github.com/Rafafaaa/moveit-next-nlw4.git
