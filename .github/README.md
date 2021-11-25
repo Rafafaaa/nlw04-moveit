@@ -15,7 +15,7 @@
 <p align="center">
   <a href="#pushpin-Descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#hammer_and_wrench-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="framed_picture-Layout-pt">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#framed_picture-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Como-utilizar">Como utilizar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#sparkles-Prévia">Prévia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#page_facing_up-Licença">Licença</a>
@@ -33,7 +33,6 @@ Este projeto utilizou as seguintes tecnologias:
 * [Next.js](https://nextjs.org)
 * [TypeScript](https://www.typescriptlang.org)
 
-<!----><a name="framed_picture-Layout-pt"></a>
 ## :framed_picture: Layout
 Acesse o layout utilizado feito no [Figma](https://www.figma.com) clicando [aqui](https://www.figma.com/file/A1iXV91K5yFvNiO9gekfjI/Move.it-1.0?node-id=160%3A2761).
 
@@ -76,7 +75,7 @@ Este projeto está sob a [licença MIT](/.github/LICENSE.md).
 <p align="center">
   <a href="#pushpin-Description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#hammer_and_wrench-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="framed_picture-Layout-en">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="framed_picture-Layout-1">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-How-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#sparkles-Preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#page_facing_up-License">License</a>
@@ -94,7 +93,6 @@ This project used the following technologies:
 * [Next.js](https://nextjs.org)
 * [TypeScript](https://www.typescriptlang.org)
 
-<!----><a name="framed_picture-Layout-en"></a>
 ## :framed_picture: Layout
 Access the used layout made on [Figma](https://www.figma.com) clicking [here](https://www.figma.com/file/A1iXV91K5yFvNiO9gekfjI/Move.it-1.0?node-id=160%3A2761).
 
