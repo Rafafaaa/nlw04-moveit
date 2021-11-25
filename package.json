@@ -2,7 +2,7 @@
   "name": "moveit-next",
   "version": "0.1.0",
   "private": true,
-  "homepage": "./",
+  "homepage": "https://rafafaaa.github.io/moveit-next-nlw4/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
