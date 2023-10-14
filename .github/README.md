@@ -61,7 +61,7 @@ $ npm run dev
 * O acesso do app estará disponível no seu navegador em [http://localhost:3000](http://localhost:3000).
 
 ## :sparkles: Prévia
-Veja uma prévia clicando [aqui](https://rafafaaa-moveit-next-nlw4.vercel.app).
+Veja uma prévia clicando [aqui](https://rafafaaa-nlw04-moveit.vercel.app).
 
 ## :page_facing_up: Licença
 Este projeto está sob a [licença MIT](/.github/LICENSE.md).
@@ -121,7 +121,7 @@ $ npm run dev
 * The app access will be available in your browser in [http://localhost:3000](http://localhost:3000).
 
 ## :sparkles: Preview
-See a preview clicking [here](https://rafafaaa-moveit-next-nlw4.vercel.app).
+See a preview clicking [here](https://rafafaaa-nlw04-moveit.vercel.app).
 
 ## :page_facing_up: License
 This project is under the [MIT license](/.github/LICENSE.md).
